@@ -2,3 +2,5 @@ pandas
 datasets
 ipykernel
 numpy
+seaborn
+matplotlib
